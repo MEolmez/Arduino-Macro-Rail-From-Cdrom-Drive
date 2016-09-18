@@ -7,10 +7,9 @@ Its made from the lazer moving part of an old cd-rom drive as the name suggests.
 Code uses Afmotor and multiCameraIrControl libraries.
 
 To-Do:
+
 -Getting a 4*4 keypad for easy step resolution selection
-
 -Taking input for how many photos to take and at which step resolution , making the device automatic.
-
 -Adding controllable LED's for object illumination
 
 https://github.com/adafruit/Adafruit-Motor-Shield-library
