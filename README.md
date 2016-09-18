@@ -10,3 +10,12 @@ To-Do:
 -Getting a 4*4 keypad for easy step resolution selection
 -Taking input for how many photos to take and at which step resolution , making the device automatic.
 -Adding controllable LED's for object illumination
+
+https://github.com/adafruit/Adafruit-Motor-Shield-library
+
+multiCameraIrControl Librarys Author is Sebastian Setz. 
+Librarys website is here - > http://sebastian.setz.name/arduino/my-libraries/multi-camera-ir-control/
+
+* License....:  This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
+*               To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/3.0/ or send a letter to
+*               Creative Commons, 171 Second Street, Suite 300, San Francisco, California, 94105, USA.
